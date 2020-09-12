@@ -1,5 +1,5 @@
-# Programming with python 2019-20
-This repository contains the course materials for the precourse on computer programming with python for the Master in City and Technology and the Master in Robotics and Advanced Construction.
+# Programming with python 2020-2021
+This repository contains the course materials for the precourse on computer programming with python for Master in City and Technology and Master in Robotics and Advanced Construction students.
 
 
 ## Syllabus
