@@ -17,7 +17,7 @@
 
 
 import datetime
-today = datetime.datetime(2020, 9, 21, 1, 00, 00)
+today = datetime.datetime(2020, 9, 21, 1, 00, 30)
 
 city_name='Taichung'
 city_area= 22148968
