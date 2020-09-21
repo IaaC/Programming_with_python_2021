@@ -42,7 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Part1-Basics" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -51,7 +51,7 @@
       <recent name="D:\Documentos\GitHub\Programming_with_python_2021" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.my_city">
+  <component name="RunManager" selected="Python.f_operators_comparison">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,27 +65,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="c_own_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming_with_python_2021" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part1-Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/c_own_code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,6 +107,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/e_operators_arithmetic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="f_operators_comparison" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part1-Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/f_operators_comparison.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.f_operators_comparison" />
         <item itemvalue="Python.my_city" />
         <item itemvalue="Python.e_operators_arithmetic" />
         <item itemvalue="Python.d_variables" />
         <item itemvalue="Python.my_script" />
-        <item itemvalue="Python.c_own_code" />
       </list>
     </recent_temporary>
   </component>
@@ -224,42 +224,42 @@
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
     <state x="869" y="402" key="EnvironmentVariablesDialog/0.0.2000.1293@0.0.2000.1293" timestamp="1600354972544" />
-    <state x="1280" y="406" key="FileChooserDialogImpl" timestamp="1600353294490">
+    <state x="1280" y="406" key="FileChooserDialogImpl" timestamp="1600698694203">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state x="1280" y="406" key="FileChooserDialogImpl/0.0.2000.1293@0.0.2000.1293" timestamp="1600353294490" />
-    <state width="1979" height="449" key="GridCell.Tab.0.bottom" timestamp="1600360200270">
+    <state x="1280" y="406" key="FileChooserDialogImpl/0.0.2000.1293@0.0.2000.1293" timestamp="1600698694203" />
+    <state width="989" height="449" key="GridCell.Tab.0.bottom" timestamp="1600698997587">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state width="1979" height="449" key="GridCell.Tab.0.bottom/0.0.2000.1293@0.0.2000.1293" timestamp="1600360200270" />
-    <state width="1979" height="449" key="GridCell.Tab.0.center" timestamp="1600360200270">
+    <state width="989" height="449" key="GridCell.Tab.0.bottom/0.0.2000.1293@0.0.2000.1293" timestamp="1600698997587" />
+    <state width="989" height="449" key="GridCell.Tab.0.center" timestamp="1600698997587">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state width="1979" height="449" key="GridCell.Tab.0.center/0.0.2000.1293@0.0.2000.1293" timestamp="1600360200270" />
-    <state width="1979" height="449" key="GridCell.Tab.0.left" timestamp="1600360200270">
+    <state width="989" height="449" key="GridCell.Tab.0.center/0.0.2000.1293@0.0.2000.1293" timestamp="1600698997587" />
+    <state width="989" height="449" key="GridCell.Tab.0.left" timestamp="1600698997587">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state width="1979" height="449" key="GridCell.Tab.0.left/0.0.2000.1293@0.0.2000.1293" timestamp="1600360200270" />
-    <state width="1979" height="449" key="GridCell.Tab.0.right" timestamp="1600360200270">
+    <state width="989" height="449" key="GridCell.Tab.0.left/0.0.2000.1293@0.0.2000.1293" timestamp="1600698997587" />
+    <state width="989" height="449" key="GridCell.Tab.0.right" timestamp="1600698997587">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state width="1979" height="449" key="GridCell.Tab.0.right/0.0.2000.1293@0.0.2000.1293" timestamp="1600360200270" />
-    <state width="1979" height="449" key="GridCell.Tab.1.bottom" timestamp="1600360200271">
+    <state width="989" height="449" key="GridCell.Tab.0.right/0.0.2000.1293@0.0.2000.1293" timestamp="1600698997587" />
+    <state width="989" height="449" key="GridCell.Tab.1.bottom" timestamp="1600698999103">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state width="1979" height="449" key="GridCell.Tab.1.bottom/0.0.2000.1293@0.0.2000.1293" timestamp="1600360200271" />
-    <state width="1979" height="449" key="GridCell.Tab.1.center" timestamp="1600360200270">
+    <state width="989" height="449" key="GridCell.Tab.1.bottom/0.0.2000.1293@0.0.2000.1293" timestamp="1600698999103" />
+    <state width="989" height="449" key="GridCell.Tab.1.center" timestamp="1600698999103">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state width="1979" height="449" key="GridCell.Tab.1.center/0.0.2000.1293@0.0.2000.1293" timestamp="1600360200270" />
-    <state width="1979" height="449" key="GridCell.Tab.1.left" timestamp="1600360200270">
+    <state width="989" height="449" key="GridCell.Tab.1.center/0.0.2000.1293@0.0.2000.1293" timestamp="1600698999103" />
+    <state width="989" height="449" key="GridCell.Tab.1.left" timestamp="1600698999103">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state width="1979" height="449" key="GridCell.Tab.1.left/0.0.2000.1293@0.0.2000.1293" timestamp="1600360200270" />
-    <state width="1979" height="449" key="GridCell.Tab.1.right" timestamp="1600360200270">
+    <state width="989" height="449" key="GridCell.Tab.1.left/0.0.2000.1293@0.0.2000.1293" timestamp="1600698999103" />
+    <state width="989" height="449" key="GridCell.Tab.1.right" timestamp="1600698999103">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
-    <state width="1979" height="449" key="GridCell.Tab.1.right/0.0.2000.1293@0.0.2000.1293" timestamp="1600360200270" />
+    <state width="989" height="449" key="GridCell.Tab.1.right/0.0.2000.1293@0.0.2000.1293" timestamp="1600698999103" />
     <state x="502" y="292" key="SettingsEditor" timestamp="1600355235409">
       <screen x="0" y="0" width="2000" height="1293" />
     </state>
@@ -272,6 +272,26 @@
           <url>file://$PROJECT_DIR$/Part1-Basics/e_operators_arithmetic.py</url>
           <line>27</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Juan_Ojeda/my_city.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Juan_Ojeda/my_city.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part1-Basics/f_operators_comparison.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part1-Basics/f_operators_comparison.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
