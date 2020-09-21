@@ -28,12 +28,10 @@ city_name = "Patras"
 city_area = 125.4
 city_population = 167446
 city_density = city_population/city_area
-favorite_fruit = 'watermellon'
-favorite_number = 4
+
 
 print('Hello World!')
 print('My name is ' + str(my_name) + '.')
-print('My favorite fruit is ' + str(favorite_fruit) + ' and my favorite number is ' + str(favorite_number) + '.')
 print('My homecity is ' + str(city_name) + ' and is located in the west part of Greece.')
 print('The population of ' + str(city_name) + ' is ' + str(city_population) + ' inhabitants.')
 print('and the total area of the city is ' + str(city_area) + ' sq.m.')
