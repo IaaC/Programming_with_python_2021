@@ -15,6 +15,11 @@
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
@@ -187,30 +192,35 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="559" y="120" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1600642163053" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600642592046">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600699371894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1600642592046" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600699371894" />
     <state width="553" height="388" key="Git.Branch.Popup" timestamp="1600643930781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="553" height="388" key="Git.Branch.Popup/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1600643930781" />
-    <state width="1898" height="277" key="GridCell.Tab.0.bottom" timestamp="1600643209619">
+    <state width="1898" height="277" key="GridCell.Tab.0.bottom" timestamp="1600699374238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1898" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1600643209619" />
-    <state width="1898" height="277" key="GridCell.Tab.0.center" timestamp="1600643209619">
+    <state width="1898" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600699374238" />
+    <state width="1898" height="277" key="GridCell.Tab.0.center" timestamp="1600699374237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1898" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1600643209619" />
-    <state width="1898" height="277" key="GridCell.Tab.0.left" timestamp="1600643209619">
+    <state width="1898" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600699374237" />
+    <state width="1898" height="277" key="GridCell.Tab.0.left" timestamp="1600699374237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1898" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1600643209619" />
-    <state width="1898" height="277" key="GridCell.Tab.0.right" timestamp="1600643209619">
+    <state width="1898" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600699374237" />
+    <state width="1898" height="277" key="GridCell.Tab.0.right" timestamp="1600699374237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1898" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1600643209619" />
+    <state width="1898" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600699374237" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600643977390">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
