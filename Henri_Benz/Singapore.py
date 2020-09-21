@@ -14,8 +14,8 @@
 
 
 city_name = 'Singapore'
-city_area = '721500'
-city_population = '5639000'
+city_area = 721500
+city_population = 5639000
 city_density = city_population/city_area
 
 print('Population Density: ' + str(city_density) + ' inhabitatants per square kilometers')
