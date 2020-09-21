@@ -1,38 +1,53 @@
+#################################################
+# This script is the first exercise for the 2020 Programming pre-course at IAAC.
+# It is a brief description of the birth city of the author.
+# All information used was based on internet research.
 ##################################################
-# This is the first exercise of the 2020 Programming Pre-course at IAAC.
-# It briefly describes the author's city.
+#
 ##################################################
 # Author: Alexandra Timageni
-# Maintainer: Alexandra Timageni
-# Email: alexandra.timageni@studens.iaac.net
+# Email: alexandra.timageni@students.iaac.net
 # Status: development
 ##################################################
 
 city_name = 'Athens'
-city_population = 3090508
-city_area = 364.2
+city_population = 2664776
+city_area = 7381
+barcelona_population = 5575000
+luxembourg_population= 122273
+ath_brc_population = round(barcelona_population / city_population)
+ath_lux_population = round(city_population/luxembourg_population)
 city_density = round(city_population/city_area)
-country_population = 10720000
-city_population_perc = city_population * 100 / country_population
+metropolitan_population = 3753783
+country_population = 10724599
+population_met_percentage = round(100 * city_population / metropolitan_population)
+population_country_percentage = round(100 * city_population / country_population)
 
-# Use str() to print a variable with text.
+print(city_name + ' in numbers!\n')
 
-print("  " + city_name + ' in numbers!\n')
-print('Today the' + ('\033[2;32;1m population\033[2;32;1m') + ('\033[0;37;1m of the city is ') + str(city_population) +
-      ' which is the ' + str(round(city_population_perc)) + '% of the' + ('\033[2;32;1m country\'s total population\033[2;32;1m') +
-      ('\033[0;37;1m.') )
-print('The' + ('\033[2;32;1m density\033[2;32;1m') + ('\033[0;37;1m of the city is: ') + str(city_density) + ' people/km2.\n')
+# use str() to convert a number into a string
+# use \ to run ' as a text
+
+print('Today ' + city_name + '\033[2;32;1m population\033[2;32;1m' + "\033[0;37;1m is " + str(city_population) +
+      ', which is the '+ str (population_met_percentage) + '% of the' + '\033[2;32;1m metropolitan population\033[2;32;1m' +
+      "\033[0;37;1m and " + str(population_country_percentage) + '% of the country\'s' + '\033[2;32;1m total population' + "\033[0;37;1m.")
+print("\033[0;37;1mThe " + '\033[2;32;1m population density\033[2;32;1m' + "\033[0;37;1m of the city is: " + str(city_density) + " people/km^2.\n")
+
+
+# !!! luxembourg_population isn't working !!!
+
+
+print(city_name + '\033[2;32;1m population\033[2;32;1m' "\033[0;37;1m is " + str(ath_brc_population) + ' times smaller than Barcelona and ' +
+      str(luxembourg_population) + ' times larger than Luxembourg.\n')
 
 tourists_2012 = 2500000
-tourists_2019 = 6400000
-tourists_increase = (tourists_2019-tourists_2012) * 100 / tourists_2019
-tourists_per_resident = tourists_2019 / city_population
+tourists_2019 = 6300000
+tourists_inc = ((tourists_2019-tourists_2012)*100) / tourists_2019
+population_and_tourism = tourists_2019/city_population
 
-print(city_name + ' economy is mainly based on tourism.')
-print('In 2012, ' + str(tourists_2012) + ('\033[2;32;1m visitors\033[2;32;1m') +
-      ('\033[0;37;1m arrived at Eleftherios Venizelos airport, whereas in 2019 came ') + str(tourists_2019) +
-      ('\033[2;32;1m visitors\033[2;32;1m') + ('\033[0;37;1m.'))
-print('In ' + str(2019-2012) + ' years the number of' + ('\033[2;32;1m visitors\033[2;32;1m') + ('\033[0;37;1m increased by ') +
-      str(round(tourists_increase)) + ('%.'))
-print('Today each permanent resident of ' + city_name + ' coresponds to ' + str(round(tourists_per_resident)) + ('\033[2;32;1m tourists.\033[2;32;1m'))
-
+print('The economy of the city is mainly based on tourism.')
+print('In 2012, ' + str(tourists_2012) + '\033[2;32;1m visitors\033[2;32;1m' +
+      '\033[0;37;1m arrived at Eleftherios Venizelos airport, whereas in 2019 arrived ' + str(tourists_2019) + '.')
+print('In ' + str(2019-2012) + ' years there was an ' + str(round(tourists_inc)) + ' %' + '\033[2;32;1m increase\033[2;32;1m'+
+      "\033[0;37;1m in the number of visitors.")
+print('Each permanent resident corresponds to ' + str(round(population_and_tourism)) + ' visitors (2019 data).')
