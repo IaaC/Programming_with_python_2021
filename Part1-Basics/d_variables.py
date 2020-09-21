@@ -21,8 +21,8 @@
 # Let's write our code
 
 # Let's create two variables and assign them two values
-i_am_a_variable = 1
-i_am_another_variable = 2
+i_am_a_variable = 20
+i_am_another_variable =5
 
 # Let's assign the result of an operation to a third variable
 i_store_the_result = i_am_a_variable + i_am_another_variable
