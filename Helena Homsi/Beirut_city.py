@@ -31,7 +31,7 @@ city_universities = 25
 city_schools = 41
 city_delivery_per_day = 12000
 city_traffic_factor = 12500
-city_airlines = 35
+city_airlines = 38
 city_airlines_flights = 3
 
 # Let's check the density of Beirut
