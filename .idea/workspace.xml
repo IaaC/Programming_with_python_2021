@@ -29,9 +29,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1d3e9d0-3433-4a94-ac33-1212996334fa" name="Default Changelist" comment="testing conditionals">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c1d3e9d0-3433-4a94-ac33-1212996334fa" name="Default Changelist" comment="testing conditionals" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -209,9 +207,9 @@
       <screen x="0" y="23" width="1440" height="836" />
     </state>
     <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.836@0.23.1440.836" timestamp="1600703441411" />
-    <state x="521" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600703912273">
+    <state x="521" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600704408482">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
-    <state x="521" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.836@0.23.1440.836" timestamp="1600703912273" />
+    <state x="521" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.836@0.23.1440.836" timestamp="1600704408482" />
   </component>
 </project>
