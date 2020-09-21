@@ -48,8 +48,8 @@ print(result)
 
 result = 20 // 8
 print('............................')
-print('If you want to know the quotient value when dividing two numbers you should use the modulus operator - % -')
-print('The modulus result of - 10 // 4- is:')
+print('If you want to know the quotient value when dividing two numbers you should use the modulus operator - // -')
+print('The modulus result of - 10 % 4- is:')
 print(result)
 
 # See what happens when you divide negative numbers
