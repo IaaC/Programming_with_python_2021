@@ -39,7 +39,7 @@ print("years")
 from datetime import date
 name_mayor = "Luigi de Magistris"
 day_first_election = date(2011, 6, 1)
-current_day = date(2020, 9, 21)
+current_day = date(2020, 9, 22)
 years_power = current_day - day_first_election
 print("The mayor is being in power for")
 print(years_power.days)
