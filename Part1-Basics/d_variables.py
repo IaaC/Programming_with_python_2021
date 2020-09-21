@@ -21,11 +21,11 @@
 # Let's write our code
 
 # Let's create two variables and assign them two values
-i_am_a_variable = 1
-i_am_another_variable = 2
+i_am_a_variable = 10
+i_am_another_variable = 50
 
 # Let's assign the result of an operation to a third variable
-i_store_the_result = i_am_a_variable + i_am_another_variable
+i_store_the_result = i_am_a_variable * i_am_another_variable
 
 # Let's print out the result
 print('The value assigned is:')
