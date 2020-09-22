@@ -1,4 +1,4 @@
-
+# Condition commands in the class
 my_city_name = 'bangalore'
 my_city_population = 74000000
 
