@@ -24,25 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff18eb4d-7324-4b69-bb18-1c8b443e5233" name="Default Changelist" comment="testing this update again">
-      <change afterPath="$PROJECT_DIR$/Leyla Saadi/Leyla's robotic arm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Programming_with_python_2021.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programming_with_python_2021.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leyla Saadi/Conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leyla Saadi/Conditions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part1-Basics/Programming_precourse_2020_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/Programming_precourse_2020_intro.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part1-Basics/a_header.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/a_header.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part1-Basics/b_libraries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/b_libraries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part1-Basics/c_own_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/c_own_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part1-Basics/d_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/d_variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part1-Basics/e_operators_arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/e_operators_arithmetic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part1-Basics/f_operators_comparison.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/f_operators_comparison.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part1-Basics/g_built_in_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/g_built_in_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="ff18eb4d-7324-4b69-bb18-1c8b443e5233" name="Default Changelist" comment="testing this update again" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,6 +110,14 @@
       <option name="presentableId" value="Default" />
       <updated>1600792290135</updated>
     </task>
+    <task id="LOCAL-00001" summary="testing this update again">
+      <created>1600857795413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600857795413</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
