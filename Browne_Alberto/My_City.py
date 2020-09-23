@@ -10,7 +10,7 @@
 ##################################################
 
 City_area = 121.9
-City_population = 7273
+City_population = 7274
 
 # Let's assign the result of an operation
 City_density = City_population / City_area
