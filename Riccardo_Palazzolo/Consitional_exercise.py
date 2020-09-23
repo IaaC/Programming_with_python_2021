@@ -13,7 +13,7 @@
 
 #First Decision
 current_distance = 1
-desired_distance = 2
+desired_distance = 5
 #If distance is bigger than 10 cm then move faster
 if current_distance > 10:
     print('move faster')
