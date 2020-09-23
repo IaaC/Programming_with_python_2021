@@ -10,12 +10,12 @@
 ##############################################################
 
 current_distance = 2  # in cm
-desired_distance = 4  # in cm
+desired_distance = 2  # in cm
 direction = "forward"
 distance = 3  # in cm
 action = "Move"
 
-if 0<desired_distance <5 :
+if 0 <= desired_distance <= 5:
 
     if current_distance > 10:
         action = "move faster "
@@ -31,7 +31,11 @@ if 0<desired_distance <5 :
     elif current_distance < 3:
         distance = (current_distance-desired_distance)/2
 
-    print("The arm will " + action + str(distance) + " cm " + direction)
+    if current_distance == desired_distance:
+        action = "stop"
+        print("The arm will " + action)
+    else:
+        print("The arm will " + action + str(distance) + " cm " + direction)
 
 else:
     print("The desired distance is out of the accepted limits")
