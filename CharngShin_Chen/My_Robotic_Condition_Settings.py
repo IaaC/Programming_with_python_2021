@@ -12,7 +12,11 @@
 
 
 
+<<<<<<< HEAD
 print('20200922_practice 01\n\n')
+=======
+print('20200922_practice 01')
+>>>>>>> 4cc3f93... Adding the conditional homework
 """
 # First decision based on distance to an object
 # If distance is bigger than 10 cm then move faster
@@ -21,14 +25,23 @@ print('20200922_practice 01\n\n')
 # if distance is less than the desired one then stop
 """
 #units=cm
+<<<<<<< HEAD
 target_distance=10
 desired_distance=4
+=======
+target_distance=2
+desired_distance=3
+>>>>>>> 4cc3f93... Adding the conditional homework
 
 
 
 
+<<<<<<< HEAD
 print('Condition 1')
 print('('+'target distance='+str(target_distance)+' ; '+'desired distance='+str(desired_distance)+')')
+=======
+# Condition 1
+>>>>>>> 4cc3f93... Adding the conditional homework
 if 0<desired_distance<5:
     if target_distance > 10:
         print('The robotic arm will more faster')
@@ -39,15 +52,23 @@ if 0<desired_distance<5:
     elif target_distance < desired_distance:
         print('The robotic arm will stop')
 
+<<<<<<< HEAD
 print('...................\n')
 
 print('Condition 2')
 print('('+'target distance='+str(target_distance)+' ; '+'desired distance='+str(desired_distance)+')')
+=======
+# Condition 2
+>>>>>>> 4cc3f93... Adding the conditional homework
 if 0 < desired_distance < 5:
     if target_distance < desired_distance:
         print('The robotic will run backwards')
     if target_distance < 3:
        distance = (target_distance - desired_distance)/2
+<<<<<<< HEAD
        print('The robotic will run'+" "+str(distance)+'cm' )
     else:
         print('The robotic will run forwards')
+=======
+       print('The robotic will run'+" "+str(distance)+'cm' )
+>>>>>>> 4cc3f93... Adding the conditional homework
