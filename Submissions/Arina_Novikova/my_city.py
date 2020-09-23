@@ -7,21 +7,26 @@
 ##################################################
 #
 ##################################################
-# Author: Iñigo Esteban
+# Author: Arina Novikova
 # Copyright: Copyright 2020, IAAC
 # Credits: [Institute for Advanced Architecture of Catalonia - IAAC, Advanced Architecture group]
 # License:  Apache License Version 2.0
 # Version: 1.0.0
-# Maintainer: Diego Pajarito
-# Email: inigo.esteban.marina@iaac.student.net
+# Maintainer: Arina Novikova
+# Email: arina.novikova@students.iaac.net
 # Status: development
 ##################################################
 
-city_name = 'Madrid'
-city_area = 604.5 # the units are in km²
-city_population = 6.642 # the units are in millions
-city_density = round(float(city_population / city_area), 3) # the units are in millions/km²
+# End of header section
+print('....................')
 
-print('The city where I live is {}'.format(city_name))
-print('It´s population is {} and {}'.format(city_area, city_population) + ' and the city density is {}'.format(city_density))
-print('and the city density is {}'.format(city_density))
+city_name = 'Moscow'
+city_area = 2561
+city_population = 12692466
+city_density = city_population/city_area
+
+print('The city I want to describe is {}'.format(city_name))
+print(str('City Area =')+" "+str(city_area)+" "+'km²')
+print(str('City Population =')+" "+str(city_population)+" "+'millions people')
+print(str('Population Density =')+" "+str(city_density)+" "+'inhabitants per km²')
+print('....................')
