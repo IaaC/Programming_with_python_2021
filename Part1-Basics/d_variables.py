@@ -21,7 +21,7 @@
 # Let's write our code
 
 # Let's create two variables and assign them two values
-i_am_a_variable = 1
+my_favourite_city = "Barcelona"
 i_am_another_variable = 2
 
 # Let's assign the result of an operation to a third variable
