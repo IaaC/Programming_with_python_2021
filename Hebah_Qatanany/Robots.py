@@ -9,10 +9,7 @@
 # Course: MaCT precourse- Programming
 ##################################################
 
-location_of_robot_arm= (3,4)
-location_of_object=(3,5)
-
-current_distance_to_object=3
+current_distance_to_object=5
 
 if current_distance_to_object > 10:
     print('Faster')
