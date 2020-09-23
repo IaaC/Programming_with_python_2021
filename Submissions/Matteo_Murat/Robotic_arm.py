@@ -16,7 +16,7 @@
 desidered_distance = 4
 distance_1 = 5
 distance_2 = 10
-current_distance = 2
+current_distance = 2 #you chose the number
 
 print('the current distance is: ')
 print(current_distance)
