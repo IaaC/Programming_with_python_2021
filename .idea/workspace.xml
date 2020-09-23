@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -18,11 +15,34 @@
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aeec1a1-0014-4c60-98bf-a057e4d7878c" name="Default Changelist" comment="this is my test" />
+    <list default="true" id="ff18eb4d-7324-4b69-bb18-1c8b443e5233" name="Default Changelist" comment="testing this update again">
+      <change afterPath="$PROJECT_DIR$/Leyla Saadi/Leyla's robotic arm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Programming_with_python_2021.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programming_with_python_2021.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leyla Saadi/Conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leyla Saadi/Conditions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part1-Basics/Programming_precourse_2020_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/Programming_precourse_2020_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part1-Basics/a_header.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/a_header.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part1-Basics/b_libraries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/b_libraries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part1-Basics/c_own_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/c_own_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part1-Basics/d_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/d_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part1-Basics/e_operators_arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/e_operators_arithmetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part1-Basics/f_operators_comparison.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/f_operators_comparison.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part1-Basics/g_built_in_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/g_built_in_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,20 +57,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectId" id="1hdmldksgJs3tjO92kneHhw2yJO" />
+  <component name="ProjectId" id="1hsGGXGtz3nKjRH5VSmpYeVYwMm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../GitHub/Programming_with_python_2021" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.Conditions">
-    <configuration name="Conditions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.i_for_loops">
+    <configuration name="Leyla's robotic arm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leyla Saadi/Conditions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leyla Saadi/Leyla's robotic arm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,28 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Leyla's test script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming_with_python_2021" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leyla Saadi" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leyla Saadi/Leyla's test script.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="a_header" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="i_for_loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,49 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/a_header.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="b_libraries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming_with_python_2021" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part1-Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/b_libraries.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="c_own_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming_with_python_2021" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part1-Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/c_own_code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/i_for_loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,22 +114,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Conditions" />
-        <item itemvalue="Python.Leyla's test script" />
-        <item itemvalue="Python.c_own_code" />
-        <item itemvalue="Python.b_libraries" />
-        <item itemvalue="Python.a_header" />
+        <item itemvalue="Python.i_for_loops" />
+        <item itemvalue="Python.Leyla's robotic arm" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5aeec1a1-0014-4c60-98bf-a057e4d7878c" name="Default Changelist" comment="" />
-      <created>1600349495179</created>
+      <changelist id="ff18eb4d-7324-4b69-bb18-1c8b443e5233" name="Default Changelist" comment="" />
+      <created>1600792290135</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600349495179</updated>
+      <updated>1600792290135</updated>
     </task>
     <servers />
   </component>
@@ -189,57 +143,61 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="this is my test" />
-    <option name="LAST_COMMIT_MESSAGE" value="this is my test" />
+    <MESSAGE value="testing this update again" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing this update again" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600349520569">
+    <state x="698" y="344" key="#Notifications" timestamp="1600792820925">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600349520569" />
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1600694034029">
+    <state x="698" y="344" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1600792820925" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600792344689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600694034029" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1600694034029">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600792344689" />
+    <state width="1899" height="327" key="GridCell.Tab.0.bottom" timestamp="1600855015816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600694034029" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1600694034029">
+    <state width="1899" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600855015816" />
+    <state width="1899" height="327" key="GridCell.Tab.0.center" timestamp="1600855015816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600694034029" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1600694034029">
+    <state width="1899" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600855015816" />
+    <state width="1899" height="327" key="GridCell.Tab.0.left" timestamp="1600855015816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600694034029" />
-    <state width="1362" height="326" key="GridCell.Tab.1.bottom" timestamp="1600606479429">
+    <state width="1899" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600855015816" />
+    <state width="1899" height="327" key="GridCell.Tab.0.right" timestamp="1600855015816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600606479429" />
-    <state width="1362" height="326" key="GridCell.Tab.1.center" timestamp="1600606479428">
+    <state width="1899" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600855015816" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1600853374299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600606479428" />
-    <state width="1362" height="326" key="GridCell.Tab.1.left" timestamp="1600606479428">
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600853374299" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1600853374299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600606479428" />
-    <state width="1362" height="326" key="GridCell.Tab.1.right" timestamp="1600606479428">
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600853374299" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1600853374299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600606479428" />
-    <state x="461" y="168" key="SettingsEditor" timestamp="1600688356958">
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600853374299" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1600853374299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600688356958" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600694409676">
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600853374299" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1600840919944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600694409676" />
-    <state x="623" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1600600644991">
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600840919944" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600849268614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="243" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600600644991" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600849268614" />
+    <state x="682" y="411" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600792930927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="411" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600792930927" />
   </component>
 </project>
