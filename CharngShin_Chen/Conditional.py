@@ -1,3 +1,20 @@
+##################################################
+# This script shows an example of a header section. This sections is a group of commented lines (lines starting with
+# the "#" character) that describes general features of the script such as the type of licence (defined by the
+# developer), authors, credits, versions among others
+##################################################
+#
+##################################################
+# Author: CharngShin Chen
+# Copyright: Copyright 2020, IAAC
+# Credits: [Institute for Advanced Architecture of Catalonia - IAAC, Advanced Architecture group]
+# License:  Apache License Version 2.0
+# Version: 1.0.0
+# Maintainer: Diego Pajarito
+# Email: charngshin.chen@students.iaac.net
+# Status: development
+##################################################
+
 
 my_city_name='Taichung'
 my_city_population=2816792
