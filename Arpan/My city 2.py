@@ -19,7 +19,6 @@
 
 # End of header section
 
-
 my_city_name = "debrecen"
 my_city_population = int(input("Please enter the population of your city"))
 My_previous_city_name = "Dubai"

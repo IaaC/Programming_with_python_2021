@@ -19,7 +19,6 @@
 
 # End of header section
 
-
 <<<<<<< HEAD
 
 =======
