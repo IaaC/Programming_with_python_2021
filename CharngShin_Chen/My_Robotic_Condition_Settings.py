@@ -12,7 +12,7 @@
 
 
 
-print('20200922_practice 01')
+print('20200922_practice 01\n\n')
 """
 # First decision based on distance to an object
 # If distance is bigger than 10 cm then move faster
@@ -21,13 +21,14 @@ print('20200922_practice 01')
 # if distance is less than the desired one then stop
 """
 #units=cm
-target_distance=2
-desired_distance=3
+target_distance=10
+desired_distance=4
 
 
 
 
-# Condition 1
+print('Condition 1')
+print('('+'target distance='+str(target_distance)+' ; '+'desired distance='+str(desired_distance)+')')
 if 0<desired_distance<5:
     if target_distance > 10:
         print('The robotic arm will more faster')
@@ -38,10 +39,15 @@ if 0<desired_distance<5:
     elif target_distance < desired_distance:
         print('The robotic arm will stop')
 
-# Condition 2
+print('...................\n')
+
+print('Condition 2')
+print('('+'target distance='+str(target_distance)+' ; '+'desired distance='+str(desired_distance)+')')
 if 0 < desired_distance < 5:
     if target_distance < desired_distance:
         print('The robotic will run backwards')
     if target_distance < 3:
        distance = (target_distance - desired_distance)/2
        print('The robotic will run'+" "+str(distance)+'cm' )
+    else:
+        print('The robotic will run forwards')
