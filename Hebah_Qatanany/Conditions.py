@@ -11,10 +11,6 @@ if city_population > 1500000:
 if city_population > 100000:
     print('It is a Urban')
 
-ity_population > 1500000:
-    print('It is a Metropolitan')
-if city_population > 100000:
-    print('It is a Urban')
 #########################################
 
 
