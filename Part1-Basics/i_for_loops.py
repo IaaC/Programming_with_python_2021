@@ -24,7 +24,6 @@
 
 print('Lets print a series of numbers')
 
-range_var = range(10)
 for i in range(10):
     print(i)
 
@@ -49,8 +48,8 @@ for i in range(11, 20, 3):
 
 print('................................')
 print('You can also create some shapes: ')
-text = ':)'
-character = '):'
+text = ''
+character = '@'
 for i in range(1, 10):
     text += character
     print(text)

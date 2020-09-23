@@ -15,132 +15,85 @@
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff18eb4d-7324-4b69-bb18-1c8b443e5233" name="Default Changelist" comment="test">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-    </list>
+    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Submissions organised as an individual folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1hsGGXGtz3nKjRH5VSmpYeVYwMm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1hqk3UHwr1UKldQFFgEU3KU9pDC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../GitHub/Programming_with_python_2021" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/workspace.xml" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/.idea/workspace.xml" />
   </component>
-  <component name="RunManager" selected="Python.i_for_loops">
-    <configuration name="Leyla's robotic arm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming_with_python_2021" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leyla Saadi" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leyla Saadi/Leyla's robotic arm.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="i_for_loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming_with_python_2021" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part1-Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/i_for_loops.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.i_for_loops" />
-        <item itemvalue="Python.Leyla's robotic arm" />
-      </list>
-    </recent_temporary>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ff18eb4d-7324-4b69-bb18-1c8b443e5233" name="Default Changelist" comment="" />
-      <created>1600792290135</created>
+      <changelist id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="" />
+      <created>1600745811207</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600792290135</updated>
+      <updated>1600745811207</updated>
     </task>
-    <task id="LOCAL-00001" summary="testing this update again">
-      <created>1600857795413</created>
+    <task id="LOCAL-00001" summary="Default Settings">
+      <created>1600745862026</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1600857795413</updated>
+      <updated>1600745862026</updated>
     </task>
-    <task id="LOCAL-00002" summary="test">
-      <created>1600857927216</created>
+    <task id="LOCAL-00002" summary="Added resources for data types">
+      <created>1600859665055</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1600857927216</updated>
+      <updated>1600859665055</updated>
     </task>
-    <task id="LOCAL-00003" summary="test">
-      <created>1600858092128</created>
+    <task id="LOCAL-00003" summary="Added resources for data types">
+      <created>1600859771295</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1600858092128</updated>
+      <updated>1600859771295</updated>
     </task>
-    <task id="LOCAL-00004" summary="test">
-      <created>1600858098774</created>
+    <task id="LOCAL-00004" summary="Added resources for data types">
+      <created>1600859936764</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1600858098774</updated>
+      <updated>1600859936764</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added resources for data types">
+      <created>1600860053272</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600860053272</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Submissions organised as an individual folder">
+      <created>1600860165961</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600860165961</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,67 +109,59 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="testing this update again" />
-    <MESSAGE value="testing this update again 2" />
-    <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Default Settings" />
+    <MESSAGE value="Added resources for data types" />
+    <MESSAGE value="Submissions organised as an individual folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Submissions organised as an individual folder" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="698" y="344" key="#Notifications" timestamp="1600792820925">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="100" y="129" width="1166" height="539" key="DiffContextDialog" timestamp="1600860398652">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state x="698" y="344" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1600792820925" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1600792344689">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="100" y="129" width="1166" height="539" key="DiffContextDialog/0.29.1366.739@0.29.1366.739" timestamp="1600860398652" />
+    <state x="466" y="156" width="424" height="492" key="FileChooserDialogImpl" timestamp="1600860032042">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600792344689" />
-    <state width="1899" height="327" key="GridCell.Tab.0.bottom" timestamp="1600855015816">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="466" y="156" width="424" height="492" key="FileChooserDialogImpl/0.29.1366.739@0.29.1366.739" timestamp="1600860032042" />
+    <state width="1343" height="242" key="GridCell.Tab.0.bottom" timestamp="1600745800636">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state width="1899" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600855015816" />
-    <state width="1899" height="327" key="GridCell.Tab.0.center" timestamp="1600855015816">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1343" height="242" key="GridCell.Tab.0.bottom/0.29.1366.739@0.29.1366.739" timestamp="1600745800636" />
+    <state width="1343" height="242" key="GridCell.Tab.0.center" timestamp="1600745800635">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state width="1899" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600855015816" />
-    <state width="1899" height="327" key="GridCell.Tab.0.left" timestamp="1600855015816">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1343" height="242" key="GridCell.Tab.0.center/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
+    <state width="1343" height="242" key="GridCell.Tab.0.left" timestamp="1600745800635">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state width="1899" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600855015816" />
-    <state width="1899" height="327" key="GridCell.Tab.0.right" timestamp="1600855015816">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1343" height="242" key="GridCell.Tab.0.left/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
+    <state width="1343" height="242" key="GridCell.Tab.0.right" timestamp="1600745800635">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state width="1899" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600855015816" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1600853374299">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1343" height="242" key="GridCell.Tab.0.right/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
+    <state x="314" y="161" width="728" height="482" key="MultipleFileMergeDialog" timestamp="1600860075052">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600853374299" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1600853374299">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="314" y="161" width="728" height="482" key="MultipleFileMergeDialog/0.29.1366.739@0.29.1366.739" timestamp="1600860075052" />
+    <state x="363" y="101" width="629" height="602" key="RollbackChangesDialog" timestamp="1600859764654">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600853374299" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1600853374299">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="363" y="101" width="629" height="602" key="RollbackChangesDialog/0.29.1366.739@0.29.1366.739" timestamp="1600859764654" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1600859882955">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600853374299" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1600853374299">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1600859882955" />
+    <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600860174660">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600853374299" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1600840919944">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2/0.29.1366.739@0.29.1366.739" timestamp="1600860174660" />
+    <state x="454" y="313" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600860398638">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600840919944" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600849268614">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="454" y="313" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.29.1366.739@0.29.1366.739" timestamp="1600860398638" />
+    <state x="352" y="299" width="652" height="206" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600746006598">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600849268614" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600857886926">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600857886926" />
-    <state x="682" y="411" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600792930927">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="682" y="411" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600792930927" />
+    <state x="352" y="299" width="652" height="206" key="git4idea.remote.GitConfigureRemotesDialog/0.29.1366.739@0.29.1366.739" timestamp="1600746006598" />
   </component>
 </project>
