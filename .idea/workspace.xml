@@ -24,7 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff18eb4d-7324-4b69-bb18-1c8b443e5233" name="Default Changelist" comment="testing this update again" />
+    <list default="true" id="ff18eb4d-7324-4b69-bb18-1c8b443e5233" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +119,28 @@
       <option name="project" value="LOCAL" />
       <updated>1600857795413</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1600857927216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600857927216</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1600858092128</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600858092128</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1600858098774</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600858098774</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,7 +157,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing this update again" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing this update again" />
+    <MESSAGE value="testing this update again 2" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="698" y="344" key="#Notifications" timestamp="1600792820925">
