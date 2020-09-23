@@ -7,7 +7,7 @@
 ##################################################
 #
 ##################################################
-# Author: Iñigo Esteban
+# Author: Inigo Esteban
 # Copyright: Copyright 2020, IAAC
 # Credits: [Institute for Advanced Architecture of Catalonia - IAAC, Advanced Architecture group]
 # License:  Apache License Version 2.0
