@@ -19,6 +19,11 @@
 
 # End of header section
 
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> 60fd01b21c132d6f0f95d728461ae514f29e7280
 My_city_name = "Debrecen"
 My_city_population = 250000
 My_city_area = 460
@@ -45,4 +50,8 @@ elif age > 18 > 60:
     print("You are elder and counted under elder population")
 else:
     print("You are old and counted under old population")
+<<<<<<< HEAD
+
+=======
     
+>>>>>>> 60fd01b21c132d6f0f95d728461ae514f29e7280
