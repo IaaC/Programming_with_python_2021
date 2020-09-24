@@ -23,7 +23,7 @@
 
 # declaring a value for a variable, in this case an Integer
 print("my_data is")
-my_data = 5
+my_data = 10
 print(my_data, '\n')
 
 print("it can change to another value like")
