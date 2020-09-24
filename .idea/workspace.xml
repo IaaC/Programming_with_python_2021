@@ -24,10 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leyla Saadi/Leyla's robotic arm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leyla Saadi/Leyla's robotic arm.py" afterDir="false" />
-    </list>
+    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Leyla's robotic arm script correcter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600860165961</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Leyla's robotic arm script correcter">
+      <created>1600929531792</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600929531792</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,7 +175,8 @@
     <MESSAGE value="Default Settings" />
     <MESSAGE value="Added resources for data types" />
     <MESSAGE value="Submissions organised as an individual folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Submissions organised as an individual folder" />
+    <MESSAGE value="Leyla's robotic arm script correcter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leyla's robotic arm script correcter" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="129" width="1166" height="539" key="DiffContextDialog" timestamp="1600860398652">
@@ -214,9 +219,10 @@
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1600859882955" />
-    <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600860174660">
-      <screen x="0" y="29" width="1366" height="739" />
+    <state x="391" y="148" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600929813660">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="391" y="148" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600929813660" />
     <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2/0.29.1366.739@0.29.1366.739" timestamp="1600860174660" />
     <state x="454" y="313" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600860398638">
       <screen x="0" y="29" width="1366" height="739" />
