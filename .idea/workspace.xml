@@ -24,11 +24,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Leyla's robotic arm script correcter" />
+    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Leyla's robotic arm script correcter">
+      <change afterPath="$PROJECT_DIR$/Submissions/Leyla Saadi/My_City_List_LS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leyla Saadi/Conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Leyla Saadi/Conditions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leyla Saadi/Leyla's robotic arm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Leyla Saadi/Leyla's robotic arm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leyla Saadi/Leyla's test script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Leyla Saadi/Leyla's test script.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,7 +59,12 @@
     <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/.idea/workspace.xml" />
   </component>
-  <component name="RunManager" selected="Python.Leyla's robotic arm">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\laila\OneDrive\Documents\GitHub\Programming_with_python_2021\Submissions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.My_City_List_LS">
     <configuration name="Leyla's robotic arm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,6 +78,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leyla Saadi/Leyla's robotic arm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="My_City_List_LS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Submissions/Leyla Saadi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Submissions/Leyla Saadi/My_City_List_LS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a_data_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/a_data_types.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,8 +151,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Leyla's robotic arm" />
+        <item itemvalue="Python.My_City_List_LS" />
         <item itemvalue="Python.b_list" />
+        <item itemvalue="Python.Leyla's robotic arm" />
+        <item itemvalue="Python.a_data_types" />
       </list>
     </recent_temporary>
   </component>
@@ -187,26 +249,42 @@
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="466" y="156" width="424" height="492" key="FileChooserDialogImpl/0.29.1366.739@0.29.1366.739" timestamp="1600860032042" />
-    <state width="1899" height="327" key="GridCell.Tab.0.bottom" timestamp="1600929512828">
+    <state width="1899" height="327" key="GridCell.Tab.0.bottom" timestamp="1600943120177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600929512828" />
+    <state width="1899" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600943120177" />
     <state width="1343" height="242" key="GridCell.Tab.0.bottom/0.29.1366.739@0.29.1366.739" timestamp="1600745800636" />
-    <state width="1899" height="327" key="GridCell.Tab.0.center" timestamp="1600929512827">
+    <state width="1899" height="327" key="GridCell.Tab.0.center" timestamp="1600943120177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600929512827" />
+    <state width="1899" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600943120177" />
     <state width="1343" height="242" key="GridCell.Tab.0.center/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
-    <state width="1899" height="327" key="GridCell.Tab.0.left" timestamp="1600929512827">
+    <state width="1899" height="327" key="GridCell.Tab.0.left" timestamp="1600943120177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600929512827" />
+    <state width="1899" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600943120177" />
     <state width="1343" height="242" key="GridCell.Tab.0.left/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
-    <state width="1899" height="327" key="GridCell.Tab.0.right" timestamp="1600929512827">
+    <state width="1899" height="327" key="GridCell.Tab.0.right" timestamp="1600943120177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600929512827" />
+    <state width="1899" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600943120177" />
     <state width="1343" height="242" key="GridCell.Tab.0.right/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1600939070553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600939070553" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1600939070553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600939070553" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1600939070553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600939070553" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1600939070553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600939070553" />
     <state x="314" y="161" width="728" height="482" key="MultipleFileMergeDialog" timestamp="1600860075052">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
@@ -236,5 +314,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600929311055" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2-DataTypes/a_data_types.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2-DataTypes/b_list.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
