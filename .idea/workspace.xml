@@ -15,11 +15,19 @@
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Submissions organised as an individual folder" />
+    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +37,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hqk3UHwr1UKldQFFgEU3KU9pDC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +48,34 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/workspace.xml" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/.idea/workspace.xml" />
+  </component>
+  <component name="RunManager">
+    <configuration name="b_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/b_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.b_list" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -123,21 +160,25 @@
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="466" y="156" width="424" height="492" key="FileChooserDialogImpl/0.29.1366.739@0.29.1366.739" timestamp="1600860032042" />
-    <state width="1343" height="242" key="GridCell.Tab.0.bottom" timestamp="1600745800636">
-      <screen x="0" y="29" width="1366" height="739" />
+    <state width="1899" height="327" key="GridCell.Tab.0.bottom" timestamp="1600858541764">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600858541764" />
     <state width="1343" height="242" key="GridCell.Tab.0.bottom/0.29.1366.739@0.29.1366.739" timestamp="1600745800636" />
-    <state width="1343" height="242" key="GridCell.Tab.0.center" timestamp="1600745800635">
-      <screen x="0" y="29" width="1366" height="739" />
+    <state width="1899" height="327" key="GridCell.Tab.0.center" timestamp="1600858541764">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600858541764" />
     <state width="1343" height="242" key="GridCell.Tab.0.center/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
-    <state width="1343" height="242" key="GridCell.Tab.0.left" timestamp="1600745800635">
-      <screen x="0" y="29" width="1366" height="739" />
+    <state width="1899" height="327" key="GridCell.Tab.0.left" timestamp="1600858541764">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600858541764" />
     <state width="1343" height="242" key="GridCell.Tab.0.left/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
-    <state width="1343" height="242" key="GridCell.Tab.0.right" timestamp="1600745800635">
-      <screen x="0" y="29" width="1366" height="739" />
+    <state width="1899" height="327" key="GridCell.Tab.0.right" timestamp="1600858541764">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600858541764" />
     <state width="1343" height="242" key="GridCell.Tab.0.right/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
     <state x="314" y="161" width="728" height="482" key="MultipleFileMergeDialog" timestamp="1600860075052">
       <screen x="0" y="29" width="1366" height="739" />
