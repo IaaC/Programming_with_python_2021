@@ -16,7 +16,7 @@
 desidered_distance = 4
 distance_1 = 5
 distance_2 = 10
-current_distance = 2 #you chose the number
+current_distance = 2 #you choose the number
 
 print('the current distance is: ')
 print(current_distance)
@@ -30,7 +30,7 @@ elif current_distance > distance_1:
 elif desidered_distance <= current_distance <= distance_1:
     print('so the robotic arm will move slower')
     if current_distance < 3:
-        distance_to_move = (current_distance-desidered_distance) / 2
+        distance_to_move = (current_distance-desidered_distance) * 0.5
         print('the distance to move is:' + distance_to_move)
         print(distance_to_move)
 elif current_distance <= desidered_distance:
