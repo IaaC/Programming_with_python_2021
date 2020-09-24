@@ -12,17 +12,21 @@
 
 # End of header section
 
-Arm_desired_distance = 1
+Arm_desired_distance = 4
 
-Arm_Distance = 3
+Arm_Current_Distance = 6
 
-if Arm_Distance > 10:
+if Arm_Current_Distance > 10:
     print('Move faster')
-if Arm_Distance > 5:
+    print('Move 3 Forward')
+elif (Arm_Current_Distance > 5) & (Arm_Current_Distance <= 10):
     print('Move at the same speed')
-elif 5>Arm_Distance>0:
+    print('Move 3 Forward')
+elif 5 > Arm_Current_Distance > Arm_desired_distance:
     print('Reduce the speed')
-if Arm_Distance < Arm_desired_distance:
+    if Arm_Current_Distance < 3:
+        move = (Arm_desired_distance - Arm_desired_distance) / 2
+elif Arm_Current_Distance < Arm_desired_distance:
     print('STOP')
 
 
