@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Submissions organised as an individual folder">
+    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Added resources for part 3">
+      <change afterPath="$PROJECT_DIR$/Part3-ExternalSources/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3-ExternalSources/a_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3-ExternalSources/b_return_values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3-ExternalSources/c_calling_external_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3-ExternalSources/ourlib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part3-ExternalSources/ourlib/our_script.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Part1-Basics/i_for_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part1-Basics/i_for_loops.py" afterDir="false" />
     </list>
@@ -180,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600860419754</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added resources for part 3">
+      <created>1600948955840</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600948955840</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,7 +212,8 @@
     <MESSAGE value="Default Settings" />
     <MESSAGE value="Added resources for data types" />
     <MESSAGE value="Submissions organised as an individual folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Submissions organised as an individual folder" />
+    <MESSAGE value="Added resources for part 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added resources for part 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="129" width="1166" height="539" key="DiffContextDialog" timestamp="1600860398652">
