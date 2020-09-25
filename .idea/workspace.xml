@@ -24,12 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Leyla's robotic arm script correcter">
-      <change afterPath="$PROJECT_DIR$/Submissions/Leyla Saadi/My_City_List_LS.py" afterDir="false" />
+    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="WIP city list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leyla Saadi/Conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Leyla Saadi/Conditions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leyla Saadi/Leyla's robotic arm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Leyla Saadi/Leyla's robotic arm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leyla Saadi/Leyla's test script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Leyla Saadi/Leyla's test script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Submissions/Leyla Saadi/My_City_List_LS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Leyla Saadi/My_City_List_LS.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +155,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -218,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600929531792</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="WIP city list">
+      <created>1600952785485</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600952785485</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,7 +243,8 @@
     <MESSAGE value="Added resources for data types" />
     <MESSAGE value="Submissions organised as an individual folder" />
     <MESSAGE value="Leyla's robotic arm script correcter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leyla's robotic arm script correcter" />
+    <MESSAGE value="WIP city list" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP city list" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="129" width="1166" height="539" key="DiffContextDialog" timestamp="1600860398652">
@@ -249,42 +255,42 @@
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="466" y="156" width="424" height="492" key="FileChooserDialogImpl/0.29.1366.739@0.29.1366.739" timestamp="1600860032042" />
-    <state width="1899" height="327" key="GridCell.Tab.0.bottom" timestamp="1600943120177">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1601019055396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600943120177" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601019055396" />
     <state width="1343" height="242" key="GridCell.Tab.0.bottom/0.29.1366.739@0.29.1366.739" timestamp="1600745800636" />
-    <state width="1899" height="327" key="GridCell.Tab.0.center" timestamp="1600943120177">
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1601019055395">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600943120177" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601019055395" />
     <state width="1343" height="242" key="GridCell.Tab.0.center/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
-    <state width="1899" height="327" key="GridCell.Tab.0.left" timestamp="1600943120177">
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1601019055395">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600943120177" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601019055395" />
     <state width="1343" height="242" key="GridCell.Tab.0.left/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
-    <state width="1899" height="327" key="GridCell.Tab.0.right" timestamp="1600943120177">
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1601019055396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600943120177" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601019055396" />
     <state width="1343" height="242" key="GridCell.Tab.0.right/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1600939070553">
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1600952786624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600939070553" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1600939070553">
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600952786624" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1600952786624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600939070553" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1600939070553">
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600952786624" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1600952786623">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600939070553" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1600939070553">
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600952786623" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1600952786624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600939070553" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600952786624" />
     <state x="314" y="161" width="728" height="482" key="MultipleFileMergeDialog" timestamp="1600860075052">
       <screen x="0" y="29" width="1366" height="739" />
     </state>

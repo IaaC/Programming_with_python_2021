@@ -8,18 +8,16 @@ population = [3000000, 14000, 400000, 5603030, 324243, 33434, 43424, 700000, 300
 cities = [names, population]
 
 number_of_cities = len(names)
+if number_of_cities >= 10:
+    print(cities)
 
-print(cities[0][0], 'has a population of', cities[1][0])
+#print(cities[0][0], 'has a population of', cities[1][0])
 
-for i in range(number_of_cities):
-    print(cities[0][i], 'has a population of', [1][i])
-
-
+for i in range (number_of_cities):
+ print(cities[0][i], 'has a population of', cities[1][i])
 
 
 
-#if names >= 10:
-#    print(cities)
 #else:
 #    print('you have less than 10 cities')
 
