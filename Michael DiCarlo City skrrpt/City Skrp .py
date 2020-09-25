@@ -22,7 +22,7 @@
 
 city_Bagel = "Bagel index"
 city_name = "Brooklyn"
-city_bagels_p_block = 3000
+city_bagels_p_block = 4000
 city_population = 200000
 city_blocks = 120
 Bagel_index = city_bagels_p_block/city_blocks

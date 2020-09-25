@@ -43,19 +43,41 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lists" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Documents\GitHub\Programming_with_python_2021\Part1-Basics" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Documents\GitHub\Programming_with_python_2021\Michael DiCarlo City skrrpt" />
       <recent name="C:\Users\User\Documents\GitHub\Programming_with_python_2021\City Stuff" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\GitHub\Programming_with_python_2021\Lists" />
+      <recent name="C:\Users\User\Documents\GitHub\Programming_with_python_2021\Part1-Basics" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.conditions">
+  <component name="RunManager" selected="Python.City Skrp ">
+    <configuration name="B Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists/B Lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="City Skrp " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\User\Documents\GitHub\Programming_with_python_2021\Michael DiCarlo City skrrpt\City Skrp .py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Michael DiCarlo City skrrpt/City Skrp .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +99,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Mine skrip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists/Lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="h_conditionals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\User\Documents\GitHub\Programming_with_python_2021\Michael DiCarlo City skrrpt\Mine skrip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/h_conditionals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,28 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="conditions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming_with_python_2021" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Michael DiCarlo City skrrpt" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Michael DiCarlo City skrrpt/conditions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="d_variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="i_for_loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,28 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/d_variables.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="my city" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming_with_python_2021" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part1-Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\User\Documents\GitHub\Programming_with_python_2021\City Stuff\my city.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/i_for_loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.conditions" />
         <item itemvalue="Python.City Skrp " />
-        <item itemvalue="Python.d_variables" />
-        <item itemvalue="Python.Mine skrip" />
-        <item itemvalue="Python.my city" />
+        <item itemvalue="Python.h_conditionals" />
+        <item itemvalue="Python.B Lists" />
+        <item itemvalue="Python.i_for_loops" />
+        <item itemvalue="Python.Lists" />
       </list>
     </recent_temporary>
   </component>
@@ -218,46 +219,46 @@
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1600621134161" />
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600699189573" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1600703665774">
+    <state width="1378" height="286" key="GridCell.Tab.0.bottom" timestamp="1600955959458">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1600626474395" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600703665774" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1600703665774">
+    <state width="1378" height="286" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600955959458" />
+    <state width="1378" height="286" key="GridCell.Tab.0.center" timestamp="1600955959458">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1600626474395" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600703665774" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1600703665773">
+    <state width="1378" height="286" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600955959458" />
+    <state width="1378" height="286" key="GridCell.Tab.0.left" timestamp="1600955959458">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1600626474395" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600703665773" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1600703665774">
+    <state width="1378" height="286" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600955959458" />
+    <state width="1378" height="286" key="GridCell.Tab.0.right" timestamp="1600955959458">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1600626474395" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600703665774" />
-    <state width="1515" height="265" key="GridCell.Tab.1.bottom" timestamp="1600626474396">
+    <state width="1378" height="286" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600955959458" />
+    <state width="745" height="264" key="GridCell.Tab.1.bottom" timestamp="1600869539844">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1600626474396" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600360068358" />
-    <state width="1515" height="265" key="GridCell.Tab.1.center" timestamp="1600626474396">
+    <state width="745" height="264" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600869539844" />
+    <state width="745" height="264" key="GridCell.Tab.1.center" timestamp="1600869539843">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1600626474396" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1600360068358" />
-    <state width="1515" height="265" key="GridCell.Tab.1.left" timestamp="1600626474395">
+    <state width="745" height="264" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1600869539843" />
+    <state width="745" height="264" key="GridCell.Tab.1.left" timestamp="1600869539843">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1600626474395" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1600360068358" />
-    <state width="1515" height="265" key="GridCell.Tab.1.right" timestamp="1600626474396">
+    <state width="745" height="264" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1600869539843" />
+    <state width="745" height="264" key="GridCell.Tab.1.right" timestamp="1600869539844">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="265" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1080@0.0.1536.834" timestamp="1600626474396" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1600360068358" />
+    <state width="745" height="264" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1600869539844" />
     <state x="277" y="62" key="SettingsEditor" timestamp="1600355258901">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -280,6 +281,11 @@
           <url>file://$PROJECT_DIR$/Part1-Basics/d_variables.py</url>
           <line>24</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part1-Basics/i_for_loops.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
