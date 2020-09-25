@@ -34,7 +34,7 @@ my_list = [1, 0.10, 'a']
 print(my_list, '\n')
 
 print("use len() to count the items in a list")
-len_list = len(my_list)
+len_list = len(my_list) #I can use this var to compare
 print(len_list, '\n')
 
 print("indexing or slicing in a list")

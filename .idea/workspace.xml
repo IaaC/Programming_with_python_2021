@@ -29,11 +29,24 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="test_1" />
+    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Submissions organised as an individual folder">
+      <change afterPath="$PROJECT_DIR$/Submissions/Matteo_Murat/Prime_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Submissions/Matteo_Murat/my_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Submissions/Matteo_Murat/my_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part2-DataTypes/b_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part2-DataTypes/b_list.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,8 +63,8 @@
     <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/.idea/workspace.xml" />
   </component>
-  <component name="RunManager" selected="Python.Robotic_arm">
-    <configuration name="Robotic_arm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.d_tuples">
+    <configuration name="Prime_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,28 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Submissions/Matteo_Murat/Robotic_arm.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="a_data_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming_with_python_2021" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/a_data_types.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Submissions/Matteo_Murat/Prime_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="i_for_loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="c_dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +114,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part1-Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/i_for_loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/c_dictionaries.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="d_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/d_tuples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Submissions/Matteo_Murat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Submissions/Matteo_Murat/my_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,10 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Robotic_arm" />
+        <item itemvalue="Python.d_tuples" />
+        <item itemvalue="Python.c_dictionaries" />
+        <item itemvalue="Python.my_list" />
         <item itemvalue="Python.b_list" />
-        <item itemvalue="Python.a_data_types" />
-        <item itemvalue="Python.i_for_loops" />
+        <item itemvalue="Python.Prime_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600860165961</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Submissions organised as an individual folder">
+      <created>1600938096307</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600938096307</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,42 +270,50 @@
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="466" y="156" width="424" height="492" key="FileChooserDialogImpl/0.29.1366.739@0.29.1366.739" timestamp="1600860032042" />
-    <state width="1419" height="217" key="GridCell.Tab.0.bottom" timestamp="1600895276623">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1419" height="270" key="GridCell.Tab.0.bottom" timestamp="1600956249675">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="217" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1600895276623" />
+    <state width="1419" height="270" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600956249675" />
+    <state width="1419" height="270" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1600945387196" />
     <state width="1343" height="242" key="GridCell.Tab.0.bottom/0.29.1366.739@0.29.1366.739" timestamp="1600745800636" />
-    <state width="1419" height="217" key="GridCell.Tab.0.center" timestamp="1600895276622">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1419" height="270" key="GridCell.Tab.0.center" timestamp="1600956249675">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="217" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1600895276622" />
+    <state width="1419" height="270" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600956249675" />
+    <state width="1419" height="270" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1600945387195" />
     <state width="1343" height="242" key="GridCell.Tab.0.center/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
-    <state width="1419" height="217" key="GridCell.Tab.0.left" timestamp="1600895276621">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1419" height="270" key="GridCell.Tab.0.left" timestamp="1600956249675">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="217" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1600895276621" />
+    <state width="1419" height="270" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600956249675" />
+    <state width="1419" height="270" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1600945387195" />
     <state width="1343" height="242" key="GridCell.Tab.0.left/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
-    <state width="1419" height="217" key="GridCell.Tab.0.right" timestamp="1600895276622">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1419" height="270" key="GridCell.Tab.0.right" timestamp="1600956249675">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="217" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1600895276622" />
+    <state width="1419" height="270" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600956249675" />
+    <state width="1419" height="270" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1600945387196" />
     <state width="1343" height="242" key="GridCell.Tab.0.right/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
-    <state width="768" height="270" key="GridCell.Tab.1.bottom" timestamp="1600869925804">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1419" height="270" key="GridCell.Tab.1.bottom" timestamp="1600956249677">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="768" height="270" key="GridCell.Tab.1.bottom/0.23.1440.837@0.23.1440.837" timestamp="1600869925804" />
-    <state width="768" height="270" key="GridCell.Tab.1.center" timestamp="1600869925803">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1419" height="270" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600956249677" />
+    <state width="1419" height="270" key="GridCell.Tab.1.bottom/0.23.1440.837@0.23.1440.837" timestamp="1600945387700" />
+    <state width="1419" height="270" key="GridCell.Tab.1.center" timestamp="1600956249676">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="768" height="270" key="GridCell.Tab.1.center/0.23.1440.837@0.23.1440.837" timestamp="1600869925803" />
-    <state width="768" height="270" key="GridCell.Tab.1.left" timestamp="1600869925803">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1419" height="270" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600956249676" />
+    <state width="1419" height="270" key="GridCell.Tab.1.center/0.23.1440.837@0.23.1440.837" timestamp="1600945387699" />
+    <state width="1419" height="270" key="GridCell.Tab.1.left" timestamp="1600956249676">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="768" height="270" key="GridCell.Tab.1.left/0.23.1440.837@0.23.1440.837" timestamp="1600869925803" />
-    <state width="768" height="270" key="GridCell.Tab.1.right" timestamp="1600869925803">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state width="1419" height="270" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600956249676" />
+    <state width="1419" height="270" key="GridCell.Tab.1.left/0.23.1440.837@0.23.1440.837" timestamp="1600945387699" />
+    <state width="1419" height="270" key="GridCell.Tab.1.right" timestamp="1600956249676">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="768" height="270" key="GridCell.Tab.1.right/0.23.1440.837@0.23.1440.837" timestamp="1600869925803" />
+    <state width="1419" height="270" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600956249676" />
+    <state width="1419" height="270" key="GridCell.Tab.1.right/0.23.1440.837@0.23.1440.837" timestamp="1600945387699" />
     <state x="314" y="161" width="728" height="482" key="MultipleFileMergeDialog" timestamp="1600860075052">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
@@ -276,14 +326,15 @@
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1600859882955" />
-    <state x="293" y="142" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600935468282">
+    <state x="293" y="142" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600938102973">
       <screen x="0" y="23" width="1440" height="837" />
     </state>
-    <state x="293" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.837@0.23.1440.837" timestamp="1600935468282" />
+    <state x="293" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.837@0.23.1440.837" timestamp="1600938102973" />
     <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2/0.29.1366.739@0.29.1366.739" timestamp="1600860174660" />
-    <state x="479" y="345" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600935461112">
-      <screen x="0" y="23" width="1440" height="837" />
+    <state x="479" y="346" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600949033183">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="479" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1600949033182" />
     <state x="479" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.837@0.23.1440.837" timestamp="1600935461112" />
     <state x="454" y="313" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.29.1366.739@0.29.1366.739" timestamp="1600860398638" />
     <state x="352" y="299" width="652" height="206" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600746006598">
@@ -295,9 +346,29 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Part1-Basics/i_for_loops.py</url>
-          <line>69</line>
-          <option name="timeStamp" value="7" />
+          <url>file://$PROJECT_DIR$/Submissions/Matteo_Murat/Prime_numbers.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2-DataTypes/b_list.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Submissions/Matteo_Murat/my_list.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2-DataTypes/c_dictionaries.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2-DataTypes/d_tuples.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
