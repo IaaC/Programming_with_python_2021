@@ -29,13 +29,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Submissions organised as an individual folder">
-      <change afterPath="$PROJECT_DIR$/Submissions/Matteo_Murat/Prime_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Submissions/Matteo_Murat/my_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Submissions/Matteo_Murat/my_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part2-DataTypes/b_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part2-DataTypes/b_list.py" afterDir="false" />
-    </list>
+    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Submissions organised as an individual folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -240,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600938096307</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Submissions organised as an individual folder">
+      <created>1601024985278</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601024985278</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,15 +327,16 @@
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1600859882955" />
-    <state x="293" y="142" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600938102973">
-      <screen x="0" y="23" width="1440" height="837" />
-    </state>
-    <state x="293" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.837@0.23.1440.837" timestamp="1600938102973" />
-    <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2/0.29.1366.739@0.29.1366.739" timestamp="1600860174660" />
-    <state x="479" y="346" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600949033183">
+    <state x="293" y="128" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601024958523">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="479" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1600949033182" />
+    <state x="293" y="128" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1601024958523" />
+    <state x="293" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.837@0.23.1440.837" timestamp="1600938102973" />
+    <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2/0.29.1366.739@0.29.1366.739" timestamp="1600860174660" />
+    <state x="479" y="346" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601025176400">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="479" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1601025176400" />
     <state x="479" y="345" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.837@0.23.1440.837" timestamp="1600935461112" />
     <state x="454" y="313" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.29.1366.739@0.29.1366.739" timestamp="1600860398638" />
     <state x="352" y="299" width="652" height="206" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600746006598">
