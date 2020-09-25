@@ -29,9 +29,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Submissions organised as an individual folder">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Submissions organised as an individual folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
