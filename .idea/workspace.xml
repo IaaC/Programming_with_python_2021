@@ -32,6 +32,7 @@
   </component>
   <component name="ChangeListManager">
 
+
     <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Submissions organised as an individual folder" />
 
 
@@ -53,11 +54,13 @@
       <change afterPath="$PROJECT_DIR$/Submissions/Diego_Pajarito/lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+
 
   <component name="FileTemplateManagerImpl">
     <option name=">>>>>>> d23f8be757d27d1cce0edcc67482749432bcbcf8
@@ -208,7 +211,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Submissions/Diego_Pajarito/lists.py" />
 
-
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,6 +227,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Henri_Benz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -254,55 +257,56 @@
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="" />
-      <created>1600745811207</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1600745811207</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Default Settings">
-      <created>1600745862026</created>
+    <task id="LOCAL-00001" summary="chang again">
+      <created>1600642248538</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1600745862026</updated>
+      <updated>1600642248538</updated>
     </task>
-    <task id="LOCAL-00002" summary="Added resources for data types">
-      <created>1600859665055</created>
+    <task id="LOCAL-00002" summary="chang again">
+      <created>1600642366740</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1600859665055</updated>
+      <updated>1600642366740</updated>
     </task>
-    <task id="LOCAL-00003" summary="Added resources for data types">
-      <created>1600859771295</created>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cea2672-42af-47a4-aabe-745448dcc4ae" name="Default Changelist" comment="chang again" />
+      <created>1600642568376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600642568376</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding Homework's Folder and a file">
+      <created>1600643270285</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1600859771295</updated>
+      <updated>1600643270285</updated>
     </task>
-    <task id="LOCAL-00004" summary="Added resources for data types">
-      <created>1600859936764</created>
+    <task id="LOCAL-00004" summary="change time parameters">
+      <created>1600643404407</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1600859936764</updated>
+      <updated>1600643404407</updated>
     </task>
-    <task id="LOCAL-00005" summary="Added resources for data types">
-      <created>1600860053272</created>
+    <task id="LOCAL-00005" summary="Complete the editing of My_City_Taichung">
+      <created>1600643668849</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1600860053272</updated>
+      <updated>1600643668849</updated>
     </task>
-    <task id="LOCAL-00006" summary="Submissions organised as an individual folder">
-      <created>1600860165961</created>
+    <task id="LOCAL-00006" summary="Using branch to modify My_City_Taichung">
+      <created>1600643798012</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1600860165961</updated>
+      <updated>1600643798012</updated>
     </task>
     <task id="LOCAL-00007" summary="Submissions organised as an individual folder">
       <created>1600860419754</created>
