@@ -20,6 +20,7 @@
 import sys
 # depending on the complexity of your script you will have a longer list of libraries
 
+
 sys.stdout.write("This is my using the play on top of the screen \n\n")
 sys.stdout.write("Header section using '#' characters\n")
 sys.stdout.write("library section using import/from ... import commands\n")
