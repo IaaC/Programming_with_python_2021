@@ -1,0 +1,74 @@
+COD_DISTRICT,COD_NEIGBOUR,NAME,POPULATION
+1,1,el Raval,47608
+1,2,el Barri Gòtic,16062
+1,3,la Barceloneta,14996
+1,4,"Sant Pere, Santa Caterina i la Ribera",22721
+2,5,el Fort Pienc,32016
+2,6,la Sagrada Família,51539
+2,7,la Dreta de l'Eixample,44052
+2,8,l'Antiga Esquerra de l'Eixample,42284
+2,9,la Nova Esquerra de l'Eixample,58180
+2,10,Sant Antoni,38345
+3,11,el Poble Sec,40228
+3,12,la Marina del Prat Vermell,1149
+3,13,la Marina de Port,30584
+3,14,la Font de la Guatlla,10401
+3,15,Hostafrancs,15904
+3,16,la Bordeta,18530
+3,17,Sants - Badal,23987
+3,18,Sants,41127
+4,19,les Corts,46009
+4,20,la Maternitat i Sant Ramon,23948
+4,21,Pedralbes,12076
+5,22,"Vallvidrera, el Tibidabo i les Planes",4670
+5,23,Sarrià,25032
+5,24,les Tres Torres,16667
+5,25,Sant Gervasi - la Bonanova,25774
+5,26,Sant Gervasi - Galvany,47666
+5,27,el Putxet i el Farró,29470
+6,28,Vallcarca i els Penitents,15759
+6,29,el Coll,7412
+6,30,la Salut,13185
+6,31,la Vila de Gràcia,50662
+6,32,el Camp d'en Grassot i Gràcia Nova,34329
+7,33,el Baix Guinardó,25672
+7,34,Can Baró,8994
+7,35,el Guinardó,36467
+7,36,la Font d'en Fargues,9383
+7,37,el Carmel,31551
+7,38,la Teixonera,11619
+7,39,Sant Genís dels Agudells,6854
+7,40,Montbau,5102
+7,41,la Vall d'Hebron,5784
+7,42,la Clota,610
+7,43,Horta,26715
+8,44,Vilapicina i la Torre Llobeta,25591
+8,45,Porta,25000
+8,46,el Turó de la Peira,15467
+8,47,Can Peguera,2271
+8,48,la Guineueta,15231
+8,49,Canyelles,6856
+8,50,les Roquetes,15590
+8,51,Verdun,12353
+8,52,la Prosperitat,26389
+8,53,la Trinitat Nova,7261
+8,54,Torre Baró,2856
+8,55,Ciutat Meridiana,10342
+8,56,Vallbona,1372
+9,57,la Trinitat Vella,9983
+9,58,Baró de Viver,2539
+9,59,el Bon Pastor,12560
+9,60,Sant Andreu,57183
+9,61,la Sagrera,29084
+9,62,el Congrés i els Indians,14116
+9,63,Navas,22129
+10,64,el Camp de l'Arpa del Clot,38168
+10,65,el Clot,27039
+10,66,el Parc i la Llacuna del Poblenou,15134
+10,67,la Vila Olímpica del Poblenou,9367
+10,68,el Poblenou,33843
+10,69,Diagonal Mar i el Front Marítim del Poblenou,13629
+10,70,el Besòs i el Maresme,23009
+10,71,Provençals del Poblenou,20487
+10,72,Sant Martí de Provençals,26146
+10,73,la Verneda i la Pau,28691
