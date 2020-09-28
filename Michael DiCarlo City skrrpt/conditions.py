@@ -18,3 +18,30 @@
 ##################################################
 
 # End of header section
+
+
+my_city = 'Brooklyn'
+My_city_pop_in_mil = 2.5
+My_city_pop = My_city_pop_in_mil * 1000000
+
+
+#Megacity > 10000000
+#Large_met_area > 1500000
+#Met_area > 500000
+#Medium_size_urban_area > 200000
+#Small_size_urban_area > 50000
+
+
+if My_city_pop > 10000000:
+    print("my city is MEGA\n")
+elif My_city_pop < 1.5*1000000:
+    print('My city is large enough\n')
+else:
+    print('my city is still p big\n')
+    print(My_city_pop)
+
+#Megacity > 10000000
+#Large_met_area > 1500000
+#Met_area > 500000
+#Medium_size_urban_area > 200000
+#Small_size_urban_area > 50000

@@ -10,6 +10,7 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
 
 
+
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
 
 
@@ -23,6 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
+
 
 
     <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Added resources for part 3">
@@ -44,6 +46,7 @@
     </list>
 
 
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +61,7 @@
   </component>
   <component name="Git.Settings">
 
+
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hqk3UHwr1UKldQFFgEU3KU9pDC" />
@@ -68,6 +72,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+
 
 
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -82,6 +87,7 @@
   </component>
   <component name="RunManager" selected="Python.d_tuples">
     <configuration name="a_data_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,6 +95,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -102,7 +109,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+
     <configuration name="b_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
 
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,12 +120,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+
 
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/b_list.py" />
+
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +136,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+
     <configuration name="c_dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +146,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/c_dictionaries.py" />
+
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,6 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+
     <configuration name="d_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
 
       <module name="Programming_with_python_2021" />
@@ -155,6 +171,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+
 
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -198,7 +215,6 @@
     </configuration>
     <recent_temporary>
       <list>
-
 
         <item itemvalue="Python.d_tuples" />
         <item itemvalue="Python.c_dictionaries" />
@@ -286,12 +302,12 @@
     <servers />
   </component>
 
-
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
+
             <State />
           </value>
         </entry>
@@ -366,6 +382,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+
           <url>file://$PROJECT_DIR$/Part1-Basics/i_for_loops.py</url>
           <line>55</line>
           <option name="timeStamp" value="5" />
