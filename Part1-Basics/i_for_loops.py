@@ -24,6 +24,7 @@
 
 print('Lets print a series of numbers')
 
+
 for i in range(10):
     print(i)
 
@@ -41,6 +42,7 @@ character = '@'
 for i in range(1, 10):
     text += character
     print(text)
+
 
 print('................................')
 print('Nested loops are quite useful. Here an example')
@@ -62,5 +64,6 @@ for i in range(1, 100):
     # print('Residual value of dividing ' + str(i) + ' / ' + str(reference_number) + ' = ' + str(residual))
     if residual == 0:
         print(str(i) + text + str(reference_number))
+
 
 # Try to print prime numbers smaller than 100
