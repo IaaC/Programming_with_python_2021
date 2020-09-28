@@ -14,10 +14,12 @@
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
 
 
+
       </path>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
@@ -85,6 +87,7 @@
       <recent name="$PROJECT_DIR$/Submissions" />
     </key>
   </component>
+
   <component name="RunManager" selected="Python.d_tuples">
     <configuration name="a_data_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
 
@@ -111,6 +114,7 @@
     </configuration>
 
     <configuration name="b_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
 
 
       <module name="Programming_with_python_2021" />
@@ -213,14 +217,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="conditionals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Henri_Benz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Henri_Benz/conditionals.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+
 
         <item itemvalue="Python.d_tuples" />
         <item itemvalue="Python.c_dictionaries" />
         <item itemvalue="Python.lists" />
         <item itemvalue="Python.b_list" />
         <item itemvalue="Python.a_data_types" />
+
       </list>
     </recent_temporary>
   </component>
@@ -325,6 +353,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added resources for part 3" />
   </component>
   <component name="WindowStateProjectService">
+
     <state width="485" height="495" key="DebuggerActiveHint" timestamp="1600951009156">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
@@ -359,6 +388,7 @@
     <state x="314" y="161" width="728" height="482" key="MultipleFileMergeDialog/0.29.1366.739@0.29.1366.739" timestamp="1600860075052" />
     <state x="363" y="101" width="629" height="602" key="RollbackChangesDialog" timestamp="1600859764654">
       <screen x="0" y="29" width="1366" height="739" />
+
     </state>
     <state x="363" y="101" width="629" height="602" key="RollbackChangesDialog/0.29.1366.739@0.29.1366.739" timestamp="1600859764654" />
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1600949550259">
@@ -376,6 +406,7 @@
     <state x="352" y="299" width="652" height="206" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600746006598">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
+
     <state x="352" y="299" width="652" height="206" key="git4idea.remote.GitConfigureRemotesDialog/0.29.1366.739@0.29.1366.739" timestamp="1600746006598" />
   </component>
   <component name="XDebuggerManager">
@@ -409,7 +440,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-
 
   </component>
 </project>
