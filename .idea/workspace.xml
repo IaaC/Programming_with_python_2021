@@ -146,13 +146,13 @@
       <method v="2" />
     </configuration>
     <configuration name="c_dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+
       <option name="SDK_HOME" value="" />
 
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
@@ -369,6 +369,7 @@
     </state>
     <state x="466" y="156" width="424" height="492" key="FileChooserDialogImpl/0.29.1366.739@0.29.1366.739" timestamp="1600860032042" />
 
+
     <state width="1343" height="191" key="GridCell.Tab.0.bottom" timestamp="1600976118869">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
@@ -414,5 +415,21 @@
 
     <state x="352" y="299" width="652" height="206" key="git4idea.remote.GitConfigureRemotesDialog/0.29.1366.739@0.29.1366.739" timestamp="1600746006598" />
 
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2-DataTypes/c_dictionaries.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Hebah_Qatanany/List of cities.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
