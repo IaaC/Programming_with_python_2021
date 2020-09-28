@@ -22,6 +22,11 @@
 
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
@@ -68,6 +73,7 @@
   </component>
   <component name="ProjectId" id="1hqk3UHwr1UKldQFFgEU3KU9pDC" />
 
+
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -84,6 +90,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+
       <recent name="$PROJECT_DIR$/Submissions" />
     </key>
   </component>
@@ -99,11 +106,13 @@
       </envs>
       <option name="SDK_HOME" value="" />
 
+
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/a_data_types.py" />
+
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,8 +122,8 @@
       <method v="2" />
     </configuration>
 
-    <configuration name="b_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
 
+    <configuration name="b_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
 
 
       <module name="Programming_with_python_2021" />
@@ -143,6 +152,7 @@
 
     <configuration name="c_dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
 
+
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,6 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/c_dictionaries.py" />
 
       <option name="PARAMETERS" value="" />
@@ -176,11 +187,11 @@
       </envs>
       <option name="SDK_HOME" value="" />
 
-
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/d_tuples.py" />
 
       <option name="PARAMETERS" value="" />
@@ -349,6 +360,7 @@
     <MESSAGE value="Default Settings" />
     <MESSAGE value="Added resources for data types" />
     <MESSAGE value="Submissions organised as an individual folder" />
+
     <MESSAGE value="Added resources for part 3" />
     <option name="LAST_COMMIT_MESSAGE" value="Added resources for part 3" />
   </component>
@@ -366,6 +378,7 @@
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="466" y="156" width="424" height="492" key="FileChooserDialogImpl/0.29.1366.739@0.29.1366.739" timestamp="1600860032042" />
+
     <state width="1343" height="191" key="GridCell.Tab.0.bottom" timestamp="1600976118869">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
@@ -394,12 +407,14 @@
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1600949550259">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
+
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1600949550259" />
     <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600949086082">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2/0.29.1366.739@0.29.1366.739" timestamp="1600949086082" />
     <state x="454" y="313" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600868462574">
+
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="454" y="313" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.29.1366.739@0.29.1366.739" timestamp="1600868462574" />
@@ -408,6 +423,26 @@
     </state>
 
     <state x="352" y="299" width="652" height="206" key="git4idea.remote.GitConfigureRemotesDialog/0.29.1366.739@0.29.1366.739" timestamp="1600746006598" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600929311055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600929311055" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2-DataTypes/a_data_types.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part2-DataTypes/b_list.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
