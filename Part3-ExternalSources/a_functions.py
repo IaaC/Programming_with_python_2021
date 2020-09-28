@@ -27,7 +27,7 @@ def say_hi(given_name):
 
 
 def a_function(argument_1, argument_2):
-    print('I received this arguments')
+    print('I received these arguments')
     print('Argument 1: ' + str(argument_1))
     print('Argument 2: ' + str(argument_2))
     # Functions are used to manage operations
