@@ -12,8 +12,8 @@
 # Credits: [Institute for Advanced Architecture of Catalonia - IAAC, Advanced Architecture group]
 # License:  Apache License Version 2.0
 # Version: 1.0.0
-# Maintainer: Diego Pajarito
-# Email: diego.pajarito@iaac.net
+# Maintainer: Michael DiCarlo
+# Email: MichaelrDiCarlo@gmail.com
 # Status: development
 ##################################################
 
