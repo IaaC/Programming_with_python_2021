@@ -19,6 +19,7 @@
 ##################################################
 
 # We will use the csv library
+import numpy as np
 import cv2
 
 # Using cv2.imread() method
