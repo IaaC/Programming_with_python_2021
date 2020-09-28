@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
-=======
->>>>>>> d23f8be757d27d1cce0edcc67482749432bcbcf8
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -14,87 +8,256 @@
       </path>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+
+
+
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+
+
+
       </path>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="6ab94086-360e-4add-9481-1900bf83e524" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-=======
+
     <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Submissions organised as an individual folder" />
->>>>>>> d23f8be757d27d1cce0edcc67482749432bcbcf8
+
+
+
+    <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Added resources for part 3">
+      <change afterPath="$PROJECT_DIR$/Data/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/climatology_values_barcelona-fabra.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/districts_BCN.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/neighbourhoods_BCN.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part4-DataInteraction/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part4-DataInteraction/a_read_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part4-DataInteraction/a_read_districts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part4-DataInteraction/b_read_neighbourhoods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part4-DataInteraction/c_aggregate_districts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part4-DataInteraction/disctlib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part4-DataInteraction/disctlib/district.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part4-DataInteraction/disctlib/neighbour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Submissions/Diego_Pajarito/dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Submissions/Diego_Pajarito/lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
+
   <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
+    <option name=">>>>>>> d23f8be757d27d1cce0edcc67482749432bcbcf8
+
       <list>
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1hdt1vqQ8uVoGt9vRktLCtX4lTR" />
-=======
-  <component name="Git.Settings">
+
+
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hqk3UHwr1UKldQFFgEU3KU9pDC" />
->>>>>>> d23f8be757d27d1cce0edcc67482749432bcbcf8
+
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/workspace.xml" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/.idea/workspace.xml" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\A.STEF\IaaC_precourse\Programming\Programming_with_python_2021" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\A.STEF\IaaC_precourse\Programming\Programming_with_python_2021\Part1-Basics" />
+
+      <recent name="$PROJECT_DIR$/Submissions" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="6ab94086-360e-4add-9481-1900bf83e524" name="Default Changelist" comment="" />
-      <created>1600846722935</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1600846722935</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Stefania-Maria_Kousoula - Adding two python files">
-      <created>1600846903465</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1600846903465</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
-=======
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/workspace.xml" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/.idea/workspace.xml" />
+
+  <component name="RunManager" selected="Python.d_tuples">
+    <configuration name="a_data_types" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+
+
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/a_data_types.py" />
+
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+
+
+    <configuration name="b_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
+
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+
+
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/b_list.py" />
+
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+
+    <configuration name="c_dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
+
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/c_dictionaries.py" />
+
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+
+    <configuration name="d_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/d_tuples.py" />
+
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+
+    <configuration name="lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Submissions/Diego_Pajarito" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Submissions/Diego_Pajarito/lists.py" />
+
+
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conditionals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_with_python_2021" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Henri_Benz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Henri_Benz/conditionals.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+
+
+        <item itemvalue="Python.d_tuples" />
+        <item itemvalue="Python.c_dictionaries" />
+        <item itemvalue="Python.lists" />
+        <item itemvalue="Python.b_list" />
+        <item itemvalue="Python.a_data_types" />
+
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -149,129 +312,59 @@
       <option name="project" value="LOCAL" />
       <updated>1600860165961</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
->>>>>>> d23f8be757d27d1cce0edcc67482749432bcbcf8
+    <task id="LOCAL-00007" summary="Submissions organised as an individual folder">
+      <created>1600860419754</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600860419754</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added resources for part 3">
+      <created>1600948955840</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600948955840</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added resources for part 3">
+      <created>1600949068845</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600949068845</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
+
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
+
             <State />
           </value>
         </entry>
       </map>
     </option>
+
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-<<<<<<< HEAD
-    <MESSAGE value="Stefania-Maria_Kousoula - Adding two python files" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2363" y="87" width="1092" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600359199992">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2363" y="87" width="1092" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600359199992" />
-    <state x="511" y="186" key="FileChooserDialogImpl" timestamp="1600847465823">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="478" y="193" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600621993722" />
-    <state x="2559" y="232" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600697857411" />
-    <state x="511" y="186" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1600847465823" />
-    <state width="1897" height="207" key="GridCell.Tab.0.bottom" timestamp="1600703395172">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1364" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600623679044" />
-    <state width="1897" height="207" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600703395172" />
-    <state width="1897" height="207" key="GridCell.Tab.0.center" timestamp="1600703395172">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1364" height="208" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600623679044" />
-    <state width="1897" height="207" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600703395172" />
-    <state width="1897" height="207" key="GridCell.Tab.0.left" timestamp="1600703395172">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1364" height="208" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600623679044" />
-    <state width="1897" height="207" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600703395172" />
-    <state width="1897" height="207" key="GridCell.Tab.0.right" timestamp="1600703395172">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1364" height="208" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600623679044" />
-    <state width="1897" height="207" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600703395172" />
-    <state width="1897" height="362" key="GridCell.Tab.1.bottom" timestamp="1600703363280">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1364" height="258" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600622891726" />
-    <state width="1897" height="362" key="GridCell.Tab.1.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600703363280" />
-    <state width="1897" height="362" key="GridCell.Tab.1.center" timestamp="1600703363280">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1364" height="258" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600622891726" />
-    <state width="1897" height="362" key="GridCell.Tab.1.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600703363280" />
-    <state width="1897" height="362" key="GridCell.Tab.1.left" timestamp="1600703363280">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1364" height="258" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600622891726" />
-    <state width="1897" height="362" key="GridCell.Tab.1.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600703363280" />
-    <state width="1897" height="362" key="GridCell.Tab.1.right" timestamp="1600703363280">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1364" height="258" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600622891726" />
-    <state width="1897" height="362" key="GridCell.Tab.1.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600703363280" />
-    <state x="2173" y="223" key="SettingsEditor" timestamp="1600698013641">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="282" y="86" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600623032009" />
-    <state x="2173" y="223" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600698013641" />
-    <state x="599" y="302" key="VCS.EditChangelistDialog" timestamp="1600622166504">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="599" y="302" key="VCS.EditChangelistDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600622166504" />
-    <state x="2451" y="303" key="Vcs.Push.Dialog.v2" timestamp="1600698256138">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2451" y="303" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600698256138" />
-    <state x="2676" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600704198824">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2676" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600704198824" />
-    <state x="2428" y="318" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600700296776">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2428" y="318" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600700296776" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Part1-Basics/e_operators_arithmetic.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Stephania-Maria Kousoula/conditionals.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
-    </breakpoint-manager>
-=======
     <MESSAGE value="Default Settings" />
     <MESSAGE value="Added resources for data types" />
     <MESSAGE value="Submissions organised as an individual folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Submissions organised as an individual folder" />
+
+    <MESSAGE value="Added resources for part 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added resources for part 3" />
   </component>
   <component name="WindowStateProjectService">
+
+    <state width="485" height="495" key="DebuggerActiveHint" timestamp="1600951009156">
+      <screen x="0" y="29" width="1366" height="739" />
+    </state>
+    <state width="485" height="495" key="DebuggerActiveHint/0.29.1366.739@0.29.1366.739" timestamp="1600951009156" />
     <state x="100" y="129" width="1166" height="539" key="DiffContextDialog" timestamp="1600860398652">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
@@ -280,46 +373,51 @@
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="466" y="156" width="424" height="492" key="FileChooserDialogImpl/0.29.1366.739@0.29.1366.739" timestamp="1600860032042" />
-    <state width="1343" height="242" key="GridCell.Tab.0.bottom" timestamp="1600745800636">
+
+    <state width="1343" height="191" key="GridCell.Tab.0.bottom" timestamp="1600976118869">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state width="1343" height="242" key="GridCell.Tab.0.bottom/0.29.1366.739@0.29.1366.739" timestamp="1600745800636" />
-    <state width="1343" height="242" key="GridCell.Tab.0.center" timestamp="1600745800635">
+    <state width="1343" height="191" key="GridCell.Tab.0.bottom/0.29.1366.739@0.29.1366.739" timestamp="1600976118869" />
+    <state width="1343" height="191" key="GridCell.Tab.0.center" timestamp="1600976118869">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state width="1343" height="242" key="GridCell.Tab.0.center/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
-    <state width="1343" height="242" key="GridCell.Tab.0.left" timestamp="1600745800635">
+    <state width="1343" height="191" key="GridCell.Tab.0.center/0.29.1366.739@0.29.1366.739" timestamp="1600976118869" />
+    <state width="1343" height="191" key="GridCell.Tab.0.left" timestamp="1600976118868">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state width="1343" height="242" key="GridCell.Tab.0.left/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
-    <state width="1343" height="242" key="GridCell.Tab.0.right" timestamp="1600745800635">
+    <state width="1343" height="191" key="GridCell.Tab.0.left/0.29.1366.739@0.29.1366.739" timestamp="1600976118868" />
+    <state width="1343" height="191" key="GridCell.Tab.0.right" timestamp="1600976118869">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state width="1343" height="242" key="GridCell.Tab.0.right/0.29.1366.739@0.29.1366.739" timestamp="1600745800635" />
+    <state width="1343" height="191" key="GridCell.Tab.0.right/0.29.1366.739@0.29.1366.739" timestamp="1600976118869" />
     <state x="314" y="161" width="728" height="482" key="MultipleFileMergeDialog" timestamp="1600860075052">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
     <state x="314" y="161" width="728" height="482" key="MultipleFileMergeDialog/0.29.1366.739@0.29.1366.739" timestamp="1600860075052" />
     <state x="363" y="101" width="629" height="602" key="RollbackChangesDialog" timestamp="1600859764654">
       <screen x="0" y="29" width="1366" height="739" />
+
     </state>
     <state x="363" y="101" width="629" height="602" key="RollbackChangesDialog/0.29.1366.739@0.29.1366.739" timestamp="1600859764654" />
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1600859882955">
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1600949550259">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1600859882955" />
-    <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600860174660">
+
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.29.1366.739@0.29.1366.739" timestamp="1600949550259" />
+    <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600949086082">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2/0.29.1366.739@0.29.1366.739" timestamp="1600860174660" />
-    <state x="454" y="313" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600860398638">
+    <state x="278" y="134" width="800" height="535" key="Vcs.Push.Dialog.v2/0.29.1366.739@0.29.1366.739" timestamp="1600949086082" />
+    <state x="454" y="313" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600868462574">
+
       <screen x="0" y="29" width="1366" height="739" />
     </state>
-    <state x="454" y="313" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.29.1366.739@0.29.1366.739" timestamp="1600860398638" />
+    <state x="454" y="313" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.29.1366.739@0.29.1366.739" timestamp="1600868462574" />
     <state x="352" y="299" width="652" height="206" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600746006598">
       <screen x="0" y="29" width="1366" height="739" />
     </state>
+
     <state x="352" y="299" width="652" height="206" key="git4idea.remote.GitConfigureRemotesDialog/0.29.1366.739@0.29.1366.739" timestamp="1600746006598" />
->>>>>>> d23f8be757d27d1cce0edcc67482749432bcbcf8
+
   </component>
 </project>
