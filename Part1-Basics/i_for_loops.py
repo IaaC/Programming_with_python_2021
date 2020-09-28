@@ -28,27 +28,15 @@ for i in range(10):
     print(i)
 
 print('................................')
-print('You can also use the counter va'
-      ''
-      ''
-      ''
-      ''
-      ''
-      ''
-      ''
-      ''
-      ''
-      ''
-      ''
-      ''
-      'lue as part of internal functions')
+print('You can also use the counter vaule as part of internal functions')
 text = 'This is iteration number: '
 for i in range(11, 20, 3):
     print(text + str(i))
+print('range(start_val, end_val, steps)')
 
 print('................................')
 print('You can also create some shapes: ')
-text = ''
+text = '@'
 character = '@'
 for i in range(1, 10):
     text += character
@@ -74,6 +62,5 @@ for i in range(1, 100):
     # print('Residual value of dividing ' + str(i) + ' / ' + str(reference_number) + ' = ' + str(residual))
     if residual == 0:
         print(str(i) + text + str(reference_number))
-
 
 # Try to print prime numbers smaller than 100
