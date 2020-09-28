@@ -1,8 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-# Datasource local storage ignored files
-/../../../../../../../:\Users\Henri_Benz\Documents\GitHub\Programming_with_python_2021\.idea/dataSources/
-/dataSources.local.xml
-# Editor-based HTTP Client requests
-/httpRequests/
+
+.DS_Store
+.idea
