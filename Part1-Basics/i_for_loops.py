@@ -24,20 +24,34 @@
 
 print('Lets print a series of numbers')
 
-for i in range(10):
+range_var = range (10)
+
+for i in range(3):
     print(i)
 
 print('................................')
-print('You can also use the counter vaule as part of internal functions')
+print('You can also use the counter va'
+      ''
+      ''
+      ''
+      ''
+      ''
+      ''
+      ''
+      ''
+      ''
+      ''
+      ''
+      ''
+      'lue as part of internal functions')
 text = 'This is iteration number: '
 for i in range(11, 20, 3):
     print(text + str(i))
-print('range(start_val, end_val, steps)')
 
 print('................................')
 print('You can also create some shapes: ')
-text = '@'
-character = '@'
+text = ''
+character = ''
 for i in range(1, 10):
     text += character
     print(text)
@@ -45,7 +59,7 @@ for i in range(1, 10):
 print('................................')
 print('Nested loops are quite useful. Here an example')
 for i in range(1, 10):
-    text = ''
+    text = '_'
     for j in range(0, i):
         text += str(i)
 
@@ -53,7 +67,7 @@ for i in range(1, 10):
 
 
 # Now combined with conditionals
-reference_number = 3
+reference_number = 9
 text = ' can be divided into '
 print('................................')
 print('This are numbers which can be divided into ' + str(reference_number))
@@ -63,4 +77,6 @@ for i in range(1, 100):
     if residual == 0:
         print(str(i) + text + str(reference_number))
 
+
 # Try to print prime numbers smaller than 100
+
